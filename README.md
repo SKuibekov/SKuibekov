@@ -11,3 +11,4 @@ SKuibekov/SKuibekov is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 https://docs.google.com/presentation/d/12jw-smgY1geYSr4wRUcANCZb6QKn1tG8HFiaaH70n2s/edit?usp=drive_link
+https://drive.google.com/drive/folders/1m7_vSb5chbwow8ggvpFX3C5iQfTd-66f?usp=sharing
